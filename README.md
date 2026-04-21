@@ -1,8 +1,22 @@
 # Indian-air-quality-analysis
 
+---
 🌍 India Air Quality Analysis Dashboard
+---
+📡 Data Source
+
+This project uses real-time air quality data from the Government of India Open Data Platform.
+
+- Source: Open Government Data Platform India  
+- Dataset: Air Quality Monitoring Data  
+- API Link:  https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=579b464db66ec23bdd0000013c6d16c40ad74cd85ad901c4804b19a6&format=csv&limit=1000
+
+The dataset includes pollutant levels (PM2.5, PM10, NO₂, etc.), location details, and timestamps.
+
+---
 
 📊 Overview
+
 This project analyzes air quality across India using real-time data from the Government of India API.  
 The analysis is performed using SQL queries and visualized using Python (Matplotlib & Seaborn).
 
